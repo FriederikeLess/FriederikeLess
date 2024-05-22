@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 
 
 # 💫 About Me:
 🔭 I’m currently working on the creation of a substructure-alert model for thyroid disrupting compounds<br>🤝 I’m looking for help with Python, the RDKit package or R <br>🌱 I’m currently learning Python and R (and RDKit)<br>💬 Ask me about topics regarding biochemistry or something related to it<br>⚡ Fun fact: I grew up in northern germany, but don't like the sea that much (usually people from nother germany would say, they almost "need" to be close to the sea)
